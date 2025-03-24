@@ -1,4 +1,14 @@
-# IS25
+# Speech reference intervals: an assessment of feasibility in depression symptom severity prediction!
+This is the repository for an Interspeech 2025 submission.
+
+### Primary authors
+- Lauren L. White$^{1}$
+- Nicholas Cummins, King's College London, UK
+- Ewan Carr, King's College London, UK
+  
+#### Secondary authors
+- Judith Dineley, King's College London, UK
+
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/4f480a97-dc4d-45cd-b85a-0b7e9a1d3910" />
 
