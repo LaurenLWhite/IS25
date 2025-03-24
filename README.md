@@ -2,7 +2,7 @@
 This is the repository for an Interspeech 2025 submission.
 
 ### Primary authors
-- Lauren L. White$^{1}$
+- Lauren L. White ${1}$
 - Nicholas Cummins, King's College London, UK
 - Ewan Carr, King's College London, UK
   
