@@ -1,4 +1,4 @@
-## Speech reference intervals: an assessment of feasibility in depression symptom severity prediction
+§## Speech reference intervals: an assessment of feasibility in depression symptom severity prediction
 This is the repository for the paper (LINK) Speech reference intervals: an assessment of feasibility in depression symptom severity prediction, published at Interspeech 2025, Rotterdam, Netherlands, 17-21 August, 2025.
 
 ### Primary authors
@@ -68,3 +68,6 @@ The overall steps are outlined in the below figure, then bullet points outline t
 
 ### Acknowledgements
 The RADAR-CNS project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 115902. This Joint Undertaking receives support from the EU’s Horizon 2020 research and innovation programme and EFPIA. This communication reflects the views of the RADAR CNS consortium, and neither IMI nor the EU and EFPIA are liable for any use that may be made of the information contained herein. We thank all RADAR-CNS patient advisory board members for contributing to the device selection procedures and providing invaluable advice throughout the study protocol design. This paper represents independent research funded by the National Institute for Health Research (NIHR) Maudsley Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. The views expressed are those of the author(s) and not necessarily those of the NHS, NIHR, or the Department of Health and Social Care.
+
+Lauren White, Pre-Doctoral Fellow NIHR303473, is funded by the NIHR for this research project. The views expressed in this publication are those of the author(s) and not necessarily those of the NIHR, NHS or the UK Department of Health and Social Care.
+
