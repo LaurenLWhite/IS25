@@ -20,7 +20,7 @@ The overall steps are outlined in the below figure, then bullet points outline t
 #### The repositories:
 - Botelho: https://github.com/mcatarinatb/reference-speech-characterization
 - Cummins: https://github.com/nickcummins41/VoiceSpeechHealth
-- White (current): https://github.com/laurenwhite99/IS25
+- White (current): https://github.com/LaurenLWhite/IS25
 
 #### Specific steps & sources for each step
 1. Pre-processing (user)
