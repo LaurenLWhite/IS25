@@ -1,4 +1,4 @@
-§## Speech reference intervals: an assessment of feasibility in depression symptom severity prediction
+## Speech reference intervals: an assessment of feasibility in depression symptom severity prediction
 This is the repository for the paper (LINK) Speech reference intervals: an assessment of feasibility in depression symptom severity prediction, published at Interspeech 2025, Rotterdam, Netherlands, 17-21 August, 2025.
 
 ### Primary authors
