@@ -4,7 +4,6 @@ This is the repository for the paper (LINK) Speech reference intervals: an asses
 ### Primary authors
 - Lauren L. White $^{1, 2}$
 - Nicholas Cummins $^{1, 2}$
-- Ewan Carr $^{1}$
 
 ### Abstract 
 Major Depressive Disorder (MDD) is a prevalent mental disorder. Combining speech features and machine learning has promise for predicting MDD, but interpretability is crucial for clinical applications. Reference intervals (RIs) represent a typical range for a speech feature in a population. RIs could increase interpretability and help clinicians identify deviations from norms. They could also replace conventional speech features in machine learning models. However, no work has yet assessed the feasibility of speech RIs in MDD. We generated and compared RIs from three reference datasets varying in size, elicitation prompt, and health information. We then calculated deviations from each RI set for people with MDD to compare performance on a depression symptom severity prediction task. Our RI-based models trained with demographic data performed similarly to each other and equivalent models using conventional features or demographics only, demonstrating the value of RI-derived features.
@@ -15,16 +14,16 @@ To replicate or develop your own version of the analyses from this paper, you wi
 
 The overall steps are outlined in the below figure, then bullet points outline the specific steps and source for this step (i.e. this repository, one of the other repositories, or user).
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/4f480a97-dc4d-45cd-b85a-0b7e9a1d3910" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/9fe3a2f6-b6e0-4a4e-88a2-47afaf88ad0b" />
 
 #### The repositories:
 - Botelho: https://github.com/mcatarinatb/reference-speech-characterization
-- Cummins: https://github.com/nickcummins41/VoiceSpeechHealth
+- Senselab: https://github.com/sensein/senselab
 - White (current): https://github.com/LaurenLWhite/IS25
 
 #### Specific steps & sources for each step
 1. Pre-processing (user)
-2. Feature extraction (Cummins)
+2. Feature extraction (Senselab)
 3. Outlier removal (Botelho)
 4. Sex partitioning (user)
 5. Non-parametric RI estimation (Botelho)
@@ -34,6 +33,7 @@ The overall steps are outlined in the below figure, then bullet points outline t
 
 
 ### Secondary authors
+- Ewan Carr $^{1}$
 - Judith Dineley $^{1}$
 - Catarina Botelho $^{3}$
 - Pauline Conde $^{1}$
@@ -67,7 +67,5 @@ The overall steps are outlined in the below figure, then bullet points outline t
 
 
 ### Acknowledgements
-The RADAR-CNS project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 115902. This Joint Undertaking receives support from the EU’s Horizon 2020 research and innovation programme and EFPIA. This communication reflects the views of the RADAR CNS consortium, and neither IMI nor the EU and EFPIA are liable for any use that may be made of the information contained herein. We thank all RADAR-CNS patient advisory board members for contributing to the device selection procedures and providing invaluable advice throughout the study protocol design. This paper represents independent research funded by the National Institute for Health Research (NIHR) Maudsley Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. The views expressed are those of the author(s) and not necessarily those of the NHS, NIHR, or the Department of Health and Social Care.
-
-Lauren White, Pre-Doctoral Fellow NIHR303473, is funded by the NIHR for this research project. The views expressed in this publication are those of the author(s) and not necessarily those of the NIHR, NHS or the UK Department of Health and Social Care.
+The RADAR-CNS project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 115902. This Joint Undertaking receives support from the EU’s Horizon 2020 research and innovation programme and EFPIA. This communication reflects the views of the RADAR CNS consortium, and neither IMI nor the EU and EFPIA are liable for any use that may be made of the information contained herein. We thank all RADAR-CNS patient advisory board members for contributing to the device selection procedures and providing invaluable advice throughout the study protocol design. This paper represents independent research funded by the National Institute for Health Research (NIHR) Maudsley Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. Lauren White, Pre-Doctoral Fellow NIHR303473, is funded by the NIHR for this research project. The views expressed are those of the author(s) and not necessarily those of the NIHR, NHS or the UK Department of Health and Social Care.
 
